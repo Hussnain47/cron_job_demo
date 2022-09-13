@@ -27,5 +27,6 @@ jobs:
         run: |
           git config --global user.name 'Hussnain47'
           git config --global user.email 'hussnainilyas2344@gmail.com'
+          git add .
           git commit -am "Automated saving data"
           git push
