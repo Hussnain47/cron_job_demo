@@ -17,10 +17,10 @@ jobs:
           cache: "pip" # caching pip dependencies
       - name: Installing dependencies
         run: pip install -r requirements.txt
-      - name: Setting Enviroment Variables
-        run: echo "python" > $PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION
       - name: Checking variable
         run: echo $PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION > temp.txt
+        env:
+          PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION: python
       # - name: Running the Script
       #   run: python gtfs_data.py
       - name: Commit report
