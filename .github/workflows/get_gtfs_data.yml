@@ -18,7 +18,7 @@ jobs:
       - name: Installing dependencies
         run: pip install -r requirements.txt
       - name: Setting Enviroment Variables
-        run: export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
+        run: echo python >> $PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION
       - name: Checking variable
         run: echo $PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION > temp.txt
       # - name: Running the Script
