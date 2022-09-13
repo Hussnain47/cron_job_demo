@@ -17,6 +17,8 @@ jobs:
           cache: "pip" # caching pip dependencies
       - name: Installing dependencies
         run: pip install -r requirements.txt
+      - name: Setting Enviroment Variables
+        run: export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
       - name: Running the Script
         run: python gtfs_data.py
       - name: Commit report
