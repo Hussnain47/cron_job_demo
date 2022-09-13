@@ -20,7 +20,7 @@ jobs:
       - name: Setting Enviroment Variables
         run: export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
       - name: Checking variable
-        run: echo $PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION
+        run: echo $PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION > temp.txt
       - name: Running the Script
         run: python gtfs_data.py
       - name: Commit report
