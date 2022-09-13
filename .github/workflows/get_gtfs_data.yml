@@ -1,14 +1,28 @@
 name: Get_Data
 
 on:
+  push:
+    branches: [main]
   schedule:
     # Runs "at minute 55 past every hour" (see https://crontab.guru)
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *"
 jobs:
   build:
-    name: Trigger Site Rebuild
     runs-on: ubuntu-latest
     steps:
-      - name: cURL request
-        # Hit the webhook endpoint to rebuild  from the "main" branch
-        run:  curl https://romamobilita.it/sites/default/files/rome_rtgtfs_vehicle_positions_feed.pb >> output.txt
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+      - name: Installing libraries
+        with:
+          python-version: "3.9"
+          cache: "pip" # caching pip dependencies
+      - name: Installing dependencies
+        run: pip install -r requirements.txt
+      - name: Running the Script
+        run: python gtfs_data.py
+      - name: Commit report
+        run: |
+          git config --global user.name 'Hussnain47'
+          git config --global user.email 'hussnainilyas2344@gmail.com'
+          git commit -am "Automated saving data"
+          git push
