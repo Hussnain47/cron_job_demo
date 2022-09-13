@@ -9,5 +9,5 @@ response = requests.get(
 feed.ParseFromString(response.content)
 timestr = time.strftime("%Y%m%d-%H%M%S")
 
-with open(timestr+'.json', 'w') as f:
+with open("./data/"+timestr+'.json', 'w') as f:
     f.write(MessageToJson(feed))
