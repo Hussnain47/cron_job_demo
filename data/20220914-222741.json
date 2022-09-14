@@ -1,0 +1,7236 @@
+{
+  "header": {
+    "gtfsRealtimeVersion": "1.0",
+    "incrementality": "FULL_DATASET",
+    "timestamp": "1663194456"
+  },
+  "entity": [
+    {
+      "id": "1",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1174-17",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "228",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.842247,
+          "longitude": 12.42547
+        },
+        "currentStopSequence": 36,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "72959",
+        "vehicle": {
+          "id": "201",
+          "label": "0250"
+        }
+      }
+    },
+    {
+      "id": "2",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2258-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "52",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.920914,
+          "longitude": 12.480688,
+          "odometer": 64241.0
+        },
+        "currentStopSequence": 34,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "73544",
+        "vehicle": {
+          "id": "215",
+          "label": "0264"
+        }
+      }
+    },
+    {
+      "id": "3",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4200-9",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "n5",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89691,
+          "longitude": 12.50187,
+          "odometer": 8845.0
+        },
+        "currentStopSequence": 24,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "71040",
+        "vehicle": {
+          "id": "632",
+          "label": "2502"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "4",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4206-9",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "n5",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.901814,
+          "longitude": 12.499105,
+          "odometer": 3130.0
+        },
+        "currentStopSequence": 11,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "70240",
+        "vehicle": {
+          "id": "638",
+          "label": "2508"
+        },
+        "occupancyStatus": "STANDING_ROOM_ONLY"
+      }
+    },
+    {
+      "id": "5",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4103-12",
+          "startTime": "24:25:00",
+          "startDate": "20220914",
+          "routeId": "n11",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89638,
+          "longitude": 12.487085,
+          "odometer": 1117.0
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "70079",
+        "vehicle": {
+          "id": "641",
+          "label": "2511"
+        },
+        "occupancyStatus": "STANDING_ROOM_ONLY"
+      }
+    },
+    {
+      "id": "6",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1012-23",
+          "startTime": "24:43:00",
+          "startDate": "20220914",
+          "routeId": "170",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.83678,
+          "longitude": 12.47143,
+          "odometer": 11046.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194416",
+        "stopId": "75090",
+        "vehicle": {
+          "id": "654",
+          "label": "2524"
+        }
+      }
+    },
+    {
+      "id": "7",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4573-2",
+          "startTime": "23:30:00",
+          "startDate": "20220914",
+          "routeId": "nMA",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.90538,
+          "longitude": 12.447647,
+          "odometer": 32996.0
+        },
+        "currentStopSequence": 56,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "73349",
+        "vehicle": {
+          "id": "656",
+          "label": "2526"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "8",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3529-20",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "83",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.911125,
+          "longitude": 12.49419,
+          "odometer": 6741.0
+        },
+        "currentStopSequence": 21,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "73597",
+        "vehicle": {
+          "id": "659",
+          "label": "2529"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "9",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4571-4",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "nMA",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.9076,
+          "longitude": 12.450682,
+          "odometer": 5198.0
+        },
+        "currentStopSequence": 19,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "73389",
+        "vehicle": {
+          "id": "662",
+          "label": "2532"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "10",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4794-5",
+          "startTime": "23:45:00",
+          "startDate": "20220914",
+          "routeId": "nMA",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.895237,
+          "longitude": 12.504657,
+          "odometer": 17899.0
+        },
+        "currentStopSequence": 39,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "70485",
+        "vehicle": {
+          "id": "663",
+          "label": "2533"
+        },
+        "occupancyStatus": "STANDING_ROOM_ONLY"
+      }
+    },
+    {
+      "id": "11",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3153-37",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "769",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.838135,
+          "longitude": 12.507895,
+          "odometer": 705.0
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "78735",
+        "vehicle": {
+          "id": "669",
+          "label": "2539"
+        }
+      }
+    },
+    {
+      "id": "12",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4071-10",
+          "startTime": "24:08:00",
+          "startDate": "20220914",
+          "routeId": "170",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.875557,
+          "longitude": 12.470692,
+          "odometer": 5302.0
+        },
+        "currentStopSequence": 15,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "77708",
+        "vehicle": {
+          "id": "682",
+          "label": "2552"
+        },
+        "occupancyStatus": "STANDING_ROOM_ONLY"
+      }
+    },
+    {
+      "id": "13",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#573-23",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "046",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.852867,
+          "longitude": 12.608927,
+          "odometer": 9166.0
+        },
+        "currentStopSequence": 22,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "78747",
+        "vehicle": {
+          "id": "694",
+          "label": "2654"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "14",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#685-20",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "070",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.792915,
+          "longitude": 12.431316,
+          "odometer": 7092.0
+        },
+        "currentStopSequence": 8,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "79463",
+        "vehicle": {
+          "id": "701",
+          "label": "2663"
+        }
+      }
+    },
+    {
+      "id": "15",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2125-24",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "506",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.836315,
+          "longitude": 12.601976
+        },
+        "currentStopSequence": 32,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "74716",
+        "vehicle": {
+          "id": "711",
+          "label": "2673"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "16",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4267-9",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "n719",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.831654,
+          "longitude": 12.412071,
+          "odometer": 556.0
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194376",
+        "stopId": "71418",
+        "vehicle": {
+          "id": "712",
+          "label": "2674"
+        }
+      }
+    },
+    {
+      "id": "17",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4223-9",
+          "startTime": "24:25:00",
+          "startDate": "20220914",
+          "routeId": "n66",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.937862,
+          "longitude": 12.560311,
+          "odometer": 431.0
+        },
+        "currentStopSequence": 4,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "73860",
+        "vehicle": {
+          "id": "733",
+          "label": "3413"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "18",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4319-8",
+          "startTime": "24:14:00",
+          "startDate": "20220914",
+          "routeId": "G03",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.92404,
+          "longitude": 12.459265,
+          "odometer": 7326.0
+        },
+        "currentStopSequence": 5,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "20265",
+        "vehicle": {
+          "id": "744",
+          "label": "3425"
+        }
+      }
+    },
+    {
+      "id": "19",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3044-19",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "73",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.822166,
+          "longitude": 12.4736,
+          "odometer": 9042.0
+        },
+        "currentStopSequence": 23,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194402",
+        "stopId": "04963",
+        "vehicle": {
+          "id": "1230",
+          "label": "4105"
+        }
+      }
+    },
+    {
+      "id": "20",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1689-20",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "360",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.87851,
+          "longitude": 12.504037,
+          "odometer": 8101.0
+        },
+        "currentStopSequence": 27,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "70490",
+        "vehicle": {
+          "id": "1259",
+          "label": "4134"
+        }
+      }
+    },
+    {
+      "id": "21",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3170-8",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "772",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.833817,
+          "longitude": 12.496331,
+          "odometer": 7646.0
+        },
+        "currentStopSequence": 39,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "70825",
+        "vehicle": {
+          "id": "1260",
+          "label": "4135"
+        }
+      }
+    },
+    {
+      "id": "22",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#922-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "160",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.866623,
+          "longitude": 12.496355
+        },
+        "currentStopSequence": 24,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "70695",
+        "vehicle": {
+          "id": "1262",
+          "label": "4137"
+        }
+      }
+    },
+    {
+      "id": "23",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3668-24",
+          "startTime": "24:33:00",
+          "startDate": "20220914",
+          "routeId": "L70",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.8884,
+          "longitude": 12.481359,
+          "odometer": 704.0
+        },
+        "currentStopSequence": 2,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "70549",
+        "vehicle": {
+          "id": "1269",
+          "label": "4144"
+        }
+      }
+    },
+    {
+      "id": "24",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2949-22",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "716",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.854973,
+          "longitude": 12.505695
+        },
+        "currentStopSequence": 26,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "70796",
+        "vehicle": {
+          "id": "1283",
+          "label": "4158"
+        }
+      }
+    },
+    {
+      "id": "25",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2848-19",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "709",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.75796,
+          "longitude": 12.3655615
+        },
+        "currentStopSequence": 19,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "79389",
+        "vehicle": {
+          "id": "1286",
+          "label": "4161"
+        }
+      }
+    },
+    {
+      "id": "26",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#994-21",
+          "startTime": "23:45:00",
+          "startDate": "20220914",
+          "routeId": "170",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.89691,
+          "longitude": 12.4852085,
+          "odometer": 8972.0
+        },
+        "currentStopSequence": 25,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194402",
+        "stopId": "70079",
+        "vehicle": {
+          "id": "1300",
+          "label": "4175"
+        }
+      }
+    },
+    {
+      "id": "27",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2911-31",
+          "startTime": "24:45:00",
+          "startDate": "20220914",
+          "routeId": "715",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.8932,
+          "longitude": 12.481482
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194398",
+        "stopId": "70610",
+        "vehicle": {
+          "id": "1314",
+          "label": "4189"
+        }
+      }
+    },
+    {
+      "id": "28",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2919-30",
+          "startTime": "24:13:00",
+          "startDate": "20220914",
+          "routeId": "715",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.862186,
+          "longitude": 12.488135
+        },
+        "currentStopSequence": 19,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "70806",
+        "vehicle": {
+          "id": "1354",
+          "label": "4229"
+        }
+      }
+    },
+    {
+      "id": "29",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4263-10",
+          "startTime": "23:57:00",
+          "startDate": "20220914",
+          "routeId": "L08",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.88373,
+          "longitude": 12.500366
+        },
+        "currentStopSequence": 8,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "70775",
+        "vehicle": {
+          "id": "1356",
+          "label": "4231"
+        }
+      }
+    },
+    {
+      "id": "30",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2930-24",
+          "startTime": "24:13:00",
+          "startDate": "20220914",
+          "routeId": "L70",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.839645,
+          "longitude": 12.480737,
+          "odometer": 7524.0
+        },
+        "currentStopSequence": 7,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194390",
+        "stopId": "76393",
+        "vehicle": {
+          "id": "1366",
+          "label": "4241"
+        }
+      }
+    },
+    {
+      "id": "31",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3652-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "87",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.884056,
+          "longitude": 12.509077,
+          "odometer": 6305.0
+        },
+        "currentStopSequence": 22,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "70482",
+        "vehicle": {
+          "id": "1381",
+          "label": "4256"
+        }
+      }
+    },
+    {
+      "id": "32",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1674-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "360",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.918762,
+          "longitude": 12.493056
+        },
+        "currentStopSequence": 23,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "78898",
+        "vehicle": {
+          "id": "1384",
+          "label": "4259"
+        }
+      }
+    },
+    {
+      "id": "33",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3099-23",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "762",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.823112,
+          "longitude": 12.490535,
+          "odometer": 4114.0
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "74848",
+        "vehicle": {
+          "id": "1405",
+          "label": "4280"
+        }
+      }
+    },
+    {
+      "id": "34",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2816-32",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "706",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.7738,
+          "longitude": 12.439551,
+          "odometer": 9198.0
+        },
+        "currentStopSequence": 26,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "74352",
+        "vehicle": {
+          "id": "1416",
+          "label": "4291"
+        }
+      }
+    },
+    {
+      "id": "35",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3233-27",
+          "startTime": "24:31:00",
+          "startDate": "20220914",
+          "routeId": "L20",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.818672,
+          "longitude": 12.482205
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "82257",
+        "vehicle": {
+          "id": "1431",
+          "label": "4306"
+        }
+      }
+    },
+    {
+      "id": "36",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#187-3",
+          "startTime": "23:20:00",
+          "startDate": "20220914",
+          "routeId": "MA",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.854473,
+          "longitude": 12.566455,
+          "odometer": 18396.0
+        },
+        "currentStopSequence": 27,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "75309",
+        "vehicle": {
+          "id": "1485",
+          "label": "4360"
+        }
+      }
+    },
+    {
+      "id": "37",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#54-22",
+          "startTime": "24:19:00",
+          "startDate": "20220914",
+          "routeId": "A10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89325,
+          "longitude": 12.509677
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "71299",
+        "vehicle": {
+          "id": "1487",
+          "label": "4362"
+        }
+      }
+    },
+    {
+      "id": "38",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#198-3",
+          "startTime": "23:30:00",
+          "startDate": "20220914",
+          "routeId": "MA",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.86874,
+          "longitude": 12.537695
+        },
+        "currentStopSequence": 23,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "75498",
+        "vehicle": {
+          "id": "1515",
+          "label": "4390"
+        }
+      }
+    },
+    {
+      "id": "39",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4510-29",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "309",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.908237,
+          "longitude": 12.534904,
+          "odometer": 6324.0
+        },
+        "currentStopSequence": 27,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "71097",
+        "vehicle": {
+          "id": "1518",
+          "label": "4393"
+        }
+      }
+    },
+    {
+      "id": "40",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2498-21",
+          "startTime": "24:36:00",
+          "startDate": "20220914",
+          "routeId": "61",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.912373,
+          "longitude": 12.47725
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194406",
+        "stopId": "70033",
+        "vehicle": {
+          "id": "1519",
+          "label": "4394"
+        }
+      }
+    },
+    {
+      "id": "41",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1033-16",
+          "startTime": "24:41:00",
+          "startDate": "20220914",
+          "routeId": "19",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.885727,
+          "longitude": 12.566602
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194400",
+        "stopId": "71317",
+        "vehicle": {
+          "id": "2356",
+          "label": "7049"
+        }
+      }
+    },
+    {
+      "id": "42",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#899-28",
+          "startTime": "24:21:00",
+          "startDate": "20220914",
+          "routeId": "14",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.890087,
+          "longitude": 12.520786
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "76935",
+        "vehicle": {
+          "id": "2362",
+          "label": "7055"
+        }
+      }
+    },
+    {
+      "id": "43",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1056-16",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "19",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.921104,
+          "longitude": 12.495936
+        },
+        "currentStopSequence": 32,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "70546",
+        "vehicle": {
+          "id": "2364",
+          "label": "7057"
+        }
+      }
+    },
+    {
+      "id": "44",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#878-30",
+          "startTime": "24:33:00",
+          "startDate": "20220914",
+          "routeId": "14",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.89823,
+          "longitude": 12.499659,
+          "odometer": 485.0
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "76935",
+        "vehicle": {
+          "id": "2366",
+          "label": "7059"
+        }
+      }
+    },
+    {
+      "id": "45",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#898-28",
+          "startTime": "24:05:00",
+          "startDate": "20220914",
+          "routeId": "14",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.893803,
+          "longitude": 12.54997
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "71079",
+        "vehicle": {
+          "id": "2368",
+          "label": "7061"
+        }
+      }
+    },
+    {
+      "id": "46",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1043-16",
+          "startTime": "24:28:00",
+          "startDate": "20220914",
+          "routeId": "19",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.917717,
+          "longitude": 12.500785
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "71267",
+        "vehicle": {
+          "id": "2370",
+          "label": "7063"
+        }
+      }
+    },
+    {
+      "id": "47",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1038-15",
+          "startTime": "24:13:00",
+          "startDate": "20220914",
+          "routeId": "19",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.91427,
+          "longitude": 12.505181,
+          "odometer": 6235.0
+        },
+        "currentStopSequence": 17,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "71270",
+        "vehicle": {
+          "id": "2384",
+          "label": "7077"
+        }
+      }
+    },
+    {
+      "id": "48",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#885-29",
+          "startTime": "24:27:00",
+          "startDate": "20220914",
+          "routeId": "14",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.8913,
+          "longitude": 12.52791
+        },
+        "currentStopSequence": 15,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "70328",
+        "vehicle": {
+          "id": "2415",
+          "label": "7111"
+        }
+      }
+    },
+    {
+      "id": "49",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1845-21",
+          "startTime": "24:25:00",
+          "startDate": "20220914",
+          "routeId": "44",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.85179,
+          "longitude": 12.451511
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "75254",
+        "vehicle": {
+          "id": "2600",
+          "label": "7507"
+        }
+      }
+    },
+    {
+      "id": "50",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2006-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "490",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.910442,
+          "longitude": 12.497942,
+          "odometer": 4421.0
+        },
+        "currentStopSequence": 25,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "74299",
+        "vehicle": {
+          "id": "2655",
+          "label": "7562"
+        }
+      }
+    },
+    {
+      "id": "51",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4560-13",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "62",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.90839,
+          "longitude": 12.49997,
+          "odometer": 25234.0
+        },
+        "currentStopSequence": 20,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "72387",
+        "vehicle": {
+          "id": "2670",
+          "label": "7577"
+        }
+      }
+    },
+    {
+      "id": "52",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2072-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "495",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.90996,
+          "longitude": 12.51024
+        },
+        "currentStopSequence": 32,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "80501",
+        "vehicle": {
+          "id": "2675",
+          "label": "7582"
+        }
+      }
+    },
+    {
+      "id": "53",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3398-31",
+          "startTime": "24:27:00",
+          "startDate": "20220914",
+          "routeId": "8BUS",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.87839,
+          "longitude": 12.465605,
+          "odometer": 2944.0
+        },
+        "currentStopSequence": 9,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "79754",
+        "vehicle": {
+          "id": "2682",
+          "label": "7589"
+        }
+      }
+    },
+    {
+      "id": "54",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1300-24",
+          "startTime": "24:05:00",
+          "startDate": "20220914",
+          "routeId": "3NAV",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.88576,
+          "longitude": 12.470707
+        },
+        "currentStopSequence": 18,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "80649",
+        "vehicle": {
+          "id": "2685",
+          "label": "7592"
+        }
+      }
+    },
+    {
+      "id": "55",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2643-13",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "649",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.90373,
+          "longitude": 12.501427,
+          "odometer": 3714.0
+        },
+        "currentStopSequence": 14,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194376",
+        "stopId": "70240",
+        "vehicle": {
+          "id": "2689",
+          "label": "7596"
+        }
+      }
+    },
+    {
+      "id": "56",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1884-22",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "44",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.8556,
+          "longitude": 12.448843,
+          "odometer": 8662.0
+        },
+        "currentStopSequence": 34,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "74586",
+        "vehicle": {
+          "id": "2697",
+          "label": "7604"
+        }
+      }
+    },
+    {
+      "id": "57",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1289-25",
+          "startTime": "24:04:00",
+          "startDate": "20220914",
+          "routeId": "3NAV",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.886635,
+          "longitude": 12.50895,
+          "odometer": 6081.0
+        },
+        "currentStopSequence": 18,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "81993",
+        "vehicle": {
+          "id": "2701",
+          "label": "7608"
+        }
+      }
+    },
+    {
+      "id": "58",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1993-20",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "490",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.904495,
+          "longitude": 12.446742
+        },
+        "currentStopSequence": 28,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194408",
+        "stopId": "73349",
+        "vehicle": {
+          "id": "2727",
+          "label": "7634"
+        }
+      }
+    },
+    {
+      "id": "59",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3714-22",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "88",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.962433,
+          "longitude": 12.518605
+        },
+        "currentStopSequence": 37,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "78786",
+        "vehicle": {
+          "id": "2778",
+          "label": "7685"
+        }
+      }
+    },
+    {
+      "id": "60",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2028-17",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "492",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.90353,
+          "longitude": 12.495932
+        },
+        "currentStopSequence": 23,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "70108",
+        "vehicle": {
+          "id": "2784",
+          "label": "7691"
+        }
+      }
+    },
+    {
+      "id": "61",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2203-20",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "51",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.88941,
+          "longitude": 12.503535
+        },
+        "currentStopSequence": 15,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194402",
+        "stopId": "70943",
+        "vehicle": {
+          "id": "2788",
+          "label": "7695"
+        }
+      }
+    },
+    {
+      "id": "62",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1307-26",
+          "startTime": "24:31:00",
+          "startDate": "20220914",
+          "routeId": "3NAV",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.888935,
+          "longitude": 12.514972,
+          "odometer": 367.0
+        },
+        "currentStopSequence": 2,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "72099",
+        "vehicle": {
+          "id": "2791",
+          "label": "7698"
+        }
+      }
+    },
+    {
+      "id": "63",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4077-28",
+          "startTime": "24:13:00",
+          "startDate": "20220914",
+          "routeId": "664",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.82478,
+          "longitude": 12.561742,
+          "odometer": 6779.0
+        },
+        "currentStopSequence": 14,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "72708",
+        "vehicle": {
+          "id": "2802",
+          "label": "8109"
+        }
+      }
+    },
+    {
+      "id": "64",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2684-24",
+          "startTime": "24:39:00",
+          "startDate": "20220914",
+          "routeId": "664",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.86941,
+          "longitude": 12.529607
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194410",
+        "stopId": "75573",
+        "vehicle": {
+          "id": "2806",
+          "label": "8113"
+        }
+      }
+    },
+    {
+      "id": "65",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2153-15",
+          "startTime": "24:31:00",
+          "startDate": "20220914",
+          "routeId": "T10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.83242,
+          "longitude": 12.614373
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "74731",
+        "vehicle": {
+          "id": "2817",
+          "label": "8124"
+        }
+      }
+    },
+    {
+      "id": "66",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#763-32",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "106",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.87445,
+          "longitude": 12.567318,
+          "odometer": 8.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194414",
+        "stopId": "82426",
+        "vehicle": {
+          "id": "2861",
+          "label": "8168"
+        }
+      }
+    },
+    {
+      "id": "67",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2130-23",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "506",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.822002,
+          "longitude": 12.6398115,
+          "odometer": 6930.0
+        },
+        "currentStopSequence": 14,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194408",
+        "stopId": "74748",
+        "vehicle": {
+          "id": "2866",
+          "label": "8173"
+        }
+      }
+    },
+    {
+      "id": "68",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2150-28",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "507",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.82464,
+          "longitude": 12.617523,
+          "odometer": 5303.0
+        },
+        "currentStopSequence": 14,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "79300",
+        "vehicle": {
+          "id": "2876",
+          "label": "8183"
+        }
+      }
+    },
+    {
+      "id": "69",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2115-22",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "504",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.841324,
+          "longitude": 12.621728
+        },
+        "currentStopSequence": 28,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "77597",
+        "vehicle": {
+          "id": "2894",
+          "label": "8201"
+        }
+      }
+    },
+    {
+      "id": "70",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3734-13",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "90",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.959206,
+          "longitude": 12.524795,
+          "odometer": 9183.0
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194408",
+        "stopId": "73764",
+        "vehicle": {
+          "id": "2897",
+          "label": "8503"
+        }
+      }
+    },
+    {
+      "id": "71",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3686-28",
+          "startTime": "24:40:00",
+          "startDate": "20220914",
+          "routeId": "881",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.86679,
+          "longitude": 12.410485,
+          "odometer": 33.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194406",
+        "stopId": "75524",
+        "vehicle": {
+          "id": "2930",
+          "label": "2680"
+        }
+      }
+    },
+    {
+      "id": "72",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4227-11",
+          "startTime": "24:25:00",
+          "startDate": "20220914",
+          "routeId": "n66",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.903316,
+          "longitude": 12.500736,
+          "odometer": 250.0
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "70441",
+        "vehicle": {
+          "id": "2937",
+          "label": "3483"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "73",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#194-3",
+          "startTime": "23:25:00",
+          "startDate": "20220914",
+          "routeId": "MA",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.860855,
+          "longitude": 12.55496,
+          "odometer": 16888.0
+        },
+        "currentStopSequence": 25,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194408",
+        "stopId": "75305",
+        "vehicle": {
+          "id": "2952",
+          "label": "4406"
+        }
+      }
+    },
+    {
+      "id": "74",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4761-24",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "341",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.950184,
+          "longitude": 12.549545,
+          "odometer": 6401.0
+        },
+        "currentStopSequence": 18,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "71532",
+        "vehicle": {
+          "id": "2953",
+          "label": "4407"
+        }
+      }
+    },
+    {
+      "id": "75",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1419-31",
+          "startTime": "24:25:00",
+          "startDate": "20220914",
+          "routeId": "A10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89311,
+          "longitude": 12.509856
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "71299",
+        "vehicle": {
+          "id": "2964",
+          "label": "4418"
+        }
+      }
+    },
+    {
+      "id": "76",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#60-22",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "H",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.896805,
+          "longitude": 12.483033,
+          "odometer": 8238.0
+        },
+        "currentStopSequence": 26,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "70078",
+        "vehicle": {
+          "id": "2966",
+          "label": "4420"
+        }
+      }
+    },
+    {
+      "id": "77",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#190-3",
+          "startTime": "23:20:00",
+          "startDate": "20220914",
+          "routeId": "MA",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.854424,
+          "longitude": 12.566582,
+          "odometer": 18111.0
+        },
+        "currentStopSequence": 27,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "75309",
+        "vehicle": {
+          "id": "2967",
+          "label": "4421"
+        }
+      }
+    },
+    {
+      "id": "78",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2801-12",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "70",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.911507,
+          "longitude": 12.45467,
+          "odometer": 6788.0
+        },
+        "currentStopSequence": 24,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "70198",
+        "vehicle": {
+          "id": "2971",
+          "label": "4425"
+        }
+      }
+    },
+    {
+      "id": "79",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4758-26",
+          "startTime": "24:19:00",
+          "startDate": "20220914",
+          "routeId": "A70",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.922977,
+          "longitude": 12.564894,
+          "odometer": 5034.0
+        },
+        "currentStopSequence": 7,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "77993",
+        "vehicle": {
+          "id": "2976",
+          "label": "4430"
+        }
+      }
+    },
+    {
+      "id": "80",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2485-22",
+          "startTime": "24:19:00",
+          "startDate": "20220914",
+          "routeId": "61",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.921337,
+          "longitude": 12.526769,
+          "odometer": 4509.0
+        },
+        "currentStopSequence": 12,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194416",
+        "stopId": "78167",
+        "vehicle": {
+          "id": "2977",
+          "label": "4431"
+        }
+      }
+    },
+    {
+      "id": "81",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#192-3",
+          "startTime": "23:25:00",
+          "startDate": "20220914",
+          "routeId": "MA",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.85842,
+          "longitude": 12.559355,
+          "odometer": 17409.0
+        },
+        "currentStopSequence": 26,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "75307",
+        "vehicle": {
+          "id": "2981",
+          "label": "4435"
+        }
+      }
+    },
+    {
+      "id": "82",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1787-15",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "412",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.885307,
+          "longitude": 12.5611515,
+          "odometer": 9520.0
+        },
+        "currentStopSequence": 33,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194402",
+        "stopId": "72594",
+        "vehicle": {
+          "id": "2984",
+          "label": "4438"
+        }
+      }
+    },
+    {
+      "id": "83",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2772-11",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "70",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.896534,
+          "longitude": 12.487253
+        },
+        "currentStopSequence": 20,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "70079",
+        "vehicle": {
+          "id": "3006",
+          "label": "4460"
+        }
+      }
+    },
+    {
+      "id": "84",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2161-11",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "508",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.893227,
+          "longitude": 12.616838,
+          "odometer": 7720.0
+        },
+        "currentStopSequence": 18,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "74499",
+        "vehicle": {
+          "id": "3029",
+          "label": "4483"
+        }
+      }
+    },
+    {
+      "id": "85",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2495-21",
+          "startTime": "24:16:00",
+          "startDate": "20220914",
+          "routeId": "61",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.90415,
+          "longitude": 12.488586
+        },
+        "currentStopSequence": 10,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "73889",
+        "vehicle": {
+          "id": "3114",
+          "label": "4515"
+        }
+      }
+    },
+    {
+      "id": "86",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2488-21",
+          "startTime": "23:55:00",
+          "startDate": "20220914",
+          "routeId": "61",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.921207,
+          "longitude": 12.526218
+        },
+        "currentStopSequence": 28,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "73925",
+        "vehicle": {
+          "id": "3115",
+          "label": "4516"
+        }
+      }
+    },
+    {
+      "id": "87",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#884-29",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "14",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.891365,
+          "longitude": 12.527948,
+          "odometer": 4441.0
+        },
+        "currentStopSequence": 15,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "70328",
+        "vehicle": {
+          "id": "3124",
+          "label": "7105"
+        }
+      }
+    },
+    {
+      "id": "88",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2186-30",
+          "startTime": "24:27:00",
+          "startDate": "20220914",
+          "routeId": "5",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.89279,
+          "longitude": 12.511098,
+          "odometer": 1668.0
+        },
+        "currentStopSequence": 5,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "70851",
+        "vehicle": {
+          "id": "3128",
+          "label": "9004"
+        }
+      }
+    },
+    {
+      "id": "89",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1046-16",
+          "startTime": "24:43:00",
+          "startDate": "20220914",
+          "routeId": "19",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.913994,
+          "longitude": 12.469238,
+          "odometer": 102.0
+        },
+        "currentStopSequence": 6,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "80618",
+        "vehicle": {
+          "id": "3130",
+          "label": "9006"
+        }
+      }
+    },
+    {
+      "id": "90",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2426-28",
+          "startTime": "24:11:00",
+          "startDate": "20220914",
+          "routeId": "5",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.892323,
+          "longitude": 12.534043,
+          "odometer": 1700.0
+        },
+        "currentStopSequence": 11,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "80523",
+        "vehicle": {
+          "id": "3137",
+          "label": "9013"
+        }
+      }
+    },
+    {
+      "id": "91",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1037-16",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "19",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.911846,
+          "longitude": 12.50723,
+          "odometer": 4907.0
+        },
+        "currentStopSequence": 18,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "71272",
+        "vehicle": {
+          "id": "3148",
+          "label": "9024"
+        }
+      }
+    },
+    {
+      "id": "92",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1278-31",
+          "startTime": "24:12:00",
+          "startDate": "20220914",
+          "routeId": "3L",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.911793,
+          "longitude": 12.507823,
+          "odometer": 3316.0
+        },
+        "currentStopSequence": 11,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194408",
+        "stopId": "71272",
+        "vehicle": {
+          "id": "3180",
+          "label": "9119"
+        }
+      }
+    },
+    {
+      "id": "93",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2266-25",
+          "startTime": "24:06:00",
+          "startDate": "20220914",
+          "routeId": "5",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.893032,
+          "longitude": 12.50972,
+          "odometer": 5919.0
+        },
+        "currentStopSequence": 18,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "71030",
+        "vehicle": {
+          "id": "3190",
+          "label": "9201"
+        }
+      }
+    },
+    {
+      "id": "94",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1247-60",
+          "startTime": "24:17:00",
+          "startDate": "20220914",
+          "routeId": "2",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.905586,
+          "longitude": 12.515535
+        },
+        "currentStopSequence": 18,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "71279",
+        "vehicle": {
+          "id": "3194",
+          "label": "9205"
+        }
+      }
+    },
+    {
+      "id": "95",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1157-62",
+          "startTime": "24:29:00",
+          "startDate": "20220914",
+          "routeId": "2",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.913147,
+          "longitude": 12.5056
+        },
+        "currentStopSequence": 13,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "71270",
+        "vehicle": {
+          "id": "3229",
+          "label": "9242"
+        }
+      }
+    },
+    {
+      "id": "96",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1276-28",
+          "startTime": "24:26:00",
+          "startDate": "20220914",
+          "routeId": "3L",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.896324,
+          "longitude": 12.518991,
+          "odometer": 1060.0
+        },
+        "currentStopSequence": 6,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "71344",
+        "vehicle": {
+          "id": "3234",
+          "label": "9247"
+        }
+      }
+    },
+    {
+      "id": "97",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1286-31",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "3L",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.917046,
+          "longitude": 12.480389,
+          "odometer": 52.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194420",
+        "stopId": "71842",
+        "vehicle": {
+          "id": "3236",
+          "label": "9249"
+        }
+      }
+    },
+    {
+      "id": "98",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3845-32",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "910",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.907124,
+          "longitude": 12.49385,
+          "odometer": 966.0
+        },
+        "currentStopSequence": 4,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "73522",
+        "vehicle": {
+          "id": "3254",
+          "label": "3015"
+        }
+      }
+    },
+    {
+      "id": "99",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1208-24",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "23",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89229,
+          "longitude": 12.471923
+        },
+        "currentStopSequence": 24,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "70149",
+        "vehicle": {
+          "id": "3308",
+          "label": "3069"
+        }
+      }
+    },
+    {
+      "id": "100",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1555-20",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "337",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 42.000446,
+          "longitude": 12.6317215
+        },
+        "currentStopSequence": 36,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "73859",
+        "vehicle": {
+          "id": "3331",
+          "label": "3092"
+        }
+      }
+    },
+    {
+      "id": "101",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#740-15",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "105",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.901047,
+          "longitude": 12.499815
+        },
+        "currentStopSequence": 23,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "70240",
+        "vehicle": {
+          "id": "3343",
+          "label": "0405"
+        }
+      }
+    },
+    {
+      "id": "102",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1124-33",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "20",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.85717,
+          "longitude": 12.596788,
+          "odometer": 2888.0
+        },
+        "currentStopSequence": 7,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "76672",
+        "vehicle": {
+          "id": "3345",
+          "label": "0407"
+        }
+      }
+    },
+    {
+      "id": "103",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1937-34",
+          "startTime": "24:12:00",
+          "startDate": "20220914",
+          "routeId": "451",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.870064,
+          "longitude": 12.568035
+        },
+        "currentStopSequence": 17,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "80216",
+        "vehicle": {
+          "id": "3346",
+          "label": "0408"
+        }
+      }
+    },
+    {
+      "id": "104",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1915-34",
+          "startTime": "24:35:00",
+          "startDate": "20220914",
+          "routeId": "451",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.92029,
+          "longitude": 12.565454,
+          "odometer": 24.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194410",
+        "stopId": "79644",
+        "vehicle": {
+          "id": "3364",
+          "label": "0426"
+        }
+      }
+    },
+    {
+      "id": "105",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1924-34",
+          "startTime": "24:27:00",
+          "startDate": "20220914",
+          "routeId": "451",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.854168,
+          "longitude": 12.571055,
+          "odometer": 348.0
+        },
+        "currentStopSequence": 2,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "80475",
+        "vehicle": {
+          "id": "3401",
+          "label": "0463"
+        }
+      }
+    },
+    {
+      "id": "106",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5582-13",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "714",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.890694,
+          "longitude": 12.5027685
+        },
+        "currentStopSequence": 22,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "70677",
+        "vehicle": {
+          "id": "3405",
+          "label": "0467"
+        }
+      }
+    },
+    {
+      "id": "107",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1087-33",
+          "startTime": "24:05:00",
+          "startDate": "20220914",
+          "routeId": "20",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.878883,
+          "longitude": 12.62963
+        },
+        "currentStopSequence": 19,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "76387",
+        "vehicle": {
+          "id": "3420",
+          "label": "0482"
+        }
+      }
+    },
+    {
+      "id": "108",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3307-22",
+          "startTime": "24:16:00",
+          "startDate": "20220914",
+          "routeId": "C10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.793026,
+          "longitude": 12.389255,
+          "odometer": 9022.0
+        },
+        "currentStopSequence": 2,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194416",
+        "stopId": "74859",
+        "vehicle": {
+          "id": "3435",
+          "label": "0497"
+        }
+      }
+    },
+    {
+      "id": "109",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5429-18",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "911",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.937584,
+          "longitude": 12.466153,
+          "odometer": 1523.0
+        },
+        "currentStopSequence": 6,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "72162",
+        "vehicle": {
+          "id": "3478",
+          "label": "3108"
+        }
+      }
+    },
+    {
+      "id": "110",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#932-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "160",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.91168,
+          "longitude": 12.48605
+        },
+        "currentStopSequence": 35,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "70029",
+        "vehicle": {
+          "id": "3487",
+          "label": "3117"
+        }
+      }
+    },
+    {
+      "id": "111",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1164-18",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "223",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.960064,
+          "longitude": 12.45248
+        },
+        "currentStopSequence": 28,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "76581",
+        "vehicle": {
+          "id": "3494",
+          "label": "3125"
+        }
+      }
+    },
+    {
+      "id": "112",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5473-22",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "990",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.93797,
+          "longitude": 12.441413
+        },
+        "currentStopSequence": 29,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194408",
+        "stopId": "78326",
+        "vehicle": {
+          "id": "3519",
+          "label": "3150"
+        }
+      }
+    },
+    {
+      "id": "113",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5456-23",
+          "startTime": "24:34:00",
+          "startDate": "20220914",
+          "routeId": "980",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.896854,
+          "longitude": 12.385886,
+          "odometer": 30.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194394",
+        "stopId": "80814",
+        "vehicle": {
+          "id": "3562",
+          "label": "3193"
+        }
+      }
+    },
+    {
+      "id": "114",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3471-20",
+          "startTime": "23:49:00",
+          "startDate": "20220914",
+          "routeId": "80",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.96282,
+          "longitude": 12.525878
+        },
+        "currentStopSequence": 19,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "76596",
+        "vehicle": {
+          "id": "3571",
+          "label": "3202"
+        }
+      }
+    },
+    {
+      "id": "115",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2711-20",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "671",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.881203,
+          "longitude": 12.510157,
+          "odometer": 10707.0
+        },
+        "currentStopSequence": 31,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "75699",
+        "vehicle": {
+          "id": "3670",
+          "label": "3304"
+        },
+        "occupancyStatus": "STANDING_ROOM_ONLY"
+      }
+    },
+    {
+      "id": "116",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4787-8",
+          "startTime": "23:30:00",
+          "startDate": "20220914",
+          "routeId": "nMA",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.87257,
+          "longitude": 12.525552,
+          "odometer": 51491.0
+        },
+        "currentStopSequence": 48,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "75700",
+        "vehicle": {
+          "id": "3671",
+          "label": "3305"
+        },
+        "occupancyStatus": "NOT_ACCEPTING_PASSENGERS"
+      }
+    },
+    {
+      "id": "117",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#564-19",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "045",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89548,
+          "longitude": 12.689796,
+          "odometer": 7678.0
+        },
+        "currentStopSequence": 25,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "73485",
+        "vehicle": {
+          "id": "3679",
+          "label": "3313"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "118",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4172-13",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "n409",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.888824,
+          "longitude": 12.542477,
+          "odometer": 4186.0
+        },
+        "currentStopSequence": 12,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "74031",
+        "vehicle": {
+          "id": "3681",
+          "label": "3315"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "119",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5574-8",
+          "startTime": "24:06:00",
+          "startDate": "20220914",
+          "routeId": "nMC",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.88673,
+          "longitude": 12.517705,
+          "odometer": 5622.0
+        },
+        "currentStopSequence": 20,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194378",
+        "stopId": "82430",
+        "vehicle": {
+          "id": "3684",
+          "label": "3318"
+        }
+      }
+    },
+    {
+      "id": "120",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4798-8",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "nMA",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.86386,
+          "longitude": 12.54827,
+          "odometer": 4291.0
+        },
+        "currentStopSequence": 14,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "75507",
+        "vehicle": {
+          "id": "3686",
+          "label": "3320"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "121",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2408-19",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "559",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.846436,
+          "longitude": 12.59013,
+          "odometer": 13303.0
+        },
+        "currentStopSequence": 36,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "80846",
+        "vehicle": {
+          "id": "3688",
+          "label": "3322"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "122",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2310-12",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "542",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.910656,
+          "longitude": 12.520962,
+          "odometer": 9104.0
+        },
+        "currentStopSequence": 27,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194382",
+        "stopId": "70575",
+        "vehicle": {
+          "id": "3690",
+          "label": "3324"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "123",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4796-10",
+          "startTime": "23:45:00",
+          "startDate": "20220914",
+          "routeId": "nMA",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.910213,
+          "longitude": 12.487621,
+          "odometer": 18675.0
+        },
+        "currentStopSequence": 43,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194384",
+        "stopId": "71321",
+        "vehicle": {
+          "id": "3693",
+          "label": "3327"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "124",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5573-8",
+          "startTime": "23:30:00",
+          "startDate": "20220914",
+          "routeId": "nMC",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.870937,
+          "longitude": 12.57964,
+          "odometer": 15233.0
+        },
+        "currentStopSequence": 51,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "82208",
+        "vehicle": {
+          "id": "3695",
+          "label": "3329"
+        }
+      }
+    },
+    {
+      "id": "125",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4170-9",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "n409",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.878937,
+          "longitude": 12.541942,
+          "odometer": 3297.0
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "74010",
+        "vehicle": {
+          "id": "3702",
+          "label": "3336"
+        }
+      }
+    },
+    {
+      "id": "126",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2293-13",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "542",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.889313,
+          "longitude": 12.560926,
+          "odometer": 7894.0
+        },
+        "currentStopSequence": 24,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194382",
+        "stopId": "74067",
+        "vehicle": {
+          "id": "3711",
+          "label": "3345"
+        },
+        "occupancyStatus": "STANDING_ROOM_ONLY"
+      }
+    },
+    {
+      "id": "127",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4707-16",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "450",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.91017,
+          "longitude": 12.571816,
+          "odometer": 10800.0
+        },
+        "currentStopSequence": 36,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "72560",
+        "vehicle": {
+          "id": "3716",
+          "label": "3350"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "128",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4797-10",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "nMA",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.888077,
+          "longitude": 12.507901,
+          "odometer": 8987.0
+        },
+        "currentStopSequence": 31,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194390",
+        "stopId": "70506",
+        "vehicle": {
+          "id": "3720",
+          "label": "3354"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "129",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4301-10",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "n913",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.959736,
+          "longitude": 12.410481,
+          "odometer": 526.0
+        },
+        "currentStopSequence": 4,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "73910",
+        "vehicle": {
+          "id": "3734",
+          "label": "3368"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "130",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4122-10",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "n201",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 42.022427,
+          "longitude": 12.373927,
+          "odometer": 15739.0
+        },
+        "currentStopSequence": 4,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "72212",
+        "vehicle": {
+          "id": "3735",
+          "label": "3369"
+        }
+      }
+    },
+    {
+      "id": "131",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1171-16",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "223",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.91822,
+          "longitude": 12.491667,
+          "odometer": 12447.0
+        },
+        "currentStopSequence": 33,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194390",
+        "stopId": "73493",
+        "vehicle": {
+          "id": "3737",
+          "label": "3371"
+        }
+      }
+    },
+    {
+      "id": "132",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4287-8",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "n90",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.944206,
+          "longitude": 12.535466,
+          "odometer": 7231.0
+        },
+        "currentStopSequence": 30,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "72504",
+        "vehicle": {
+          "id": "3740",
+          "label": "3374"
+        }
+      }
+    },
+    {
+      "id": "133",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4229-14",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "n70",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.8966,
+          "longitude": 12.48706,
+          "odometer": 5759.0
+        },
+        "currentStopSequence": 18,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194386",
+        "stopId": "70079",
+        "vehicle": {
+          "id": "3742",
+          "label": "3376"
+        }
+      }
+    },
+    {
+      "id": "134",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4115-13",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "n200",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.931126,
+          "longitude": 12.464606
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194398",
+        "stopId": "78013",
+        "vehicle": {
+          "id": "3743",
+          "label": "3377"
+        }
+      }
+    },
+    {
+      "id": "135",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4234-15",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "n70",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.917526,
+          "longitude": 12.455565,
+          "odometer": 112.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194392",
+        "stopId": "70200",
+        "vehicle": {
+          "id": "3746",
+          "label": "3380"
+        }
+      }
+    },
+    {
+      "id": "136",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2366-22",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "556",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89352,
+          "longitude": 12.574775
+        },
+        "currentStopSequence": 30,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "71248",
+        "vehicle": {
+          "id": "3749",
+          "label": "3383"
+        }
+      }
+    },
+    {
+      "id": "137",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#272-2",
+          "startTime": "24:01:00",
+          "startDate": "20220914",
+          "routeId": "nMC",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.87477,
+          "longitude": 12.565991,
+          "odometer": 12223.0
+        },
+        "currentStopSequence": 26,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194388",
+        "stopId": "77960",
+        "vehicle": {
+          "id": "3751",
+          "label": "3385"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "138",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4822-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "85",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89847,
+          "longitude": 12.481462,
+          "odometer": 7393.0
+        },
+        "currentStopSequence": 25,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "73888",
+        "vehicle": {
+          "id": "3753",
+          "label": "3387"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "139",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#558-9",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "045",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.89017,
+          "longitude": 12.694906,
+          "odometer": 9629.0
+        },
+        "currentStopSequence": 21,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "73528",
+        "vehicle": {
+          "id": "3756",
+          "label": "3390"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "140",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4795-7",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "nMA",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.914497,
+          "longitude": 12.471382,
+          "odometer": 6892.0
+        },
+        "currentStopSequence": 24,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "80781",
+        "vehicle": {
+          "id": "3758",
+          "label": "3392"
+        }
+      }
+    },
+    {
+      "id": "141",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4293-11",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "G03",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.9369,
+          "longitude": 12.4677515,
+          "odometer": 5365.0
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194416",
+        "stopId": "74215",
+        "vehicle": {
+          "id": "3759",
+          "label": "3393"
+        }
+      }
+    },
+    {
+      "id": "142",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3742-27",
+          "startTime": "24:33:00",
+          "startDate": "20220914",
+          "routeId": "G40",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.941395,
+          "longitude": 12.470841,
+          "odometer": 3485.0
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194416",
+        "stopId": "70143",
+        "vehicle": {
+          "id": "3804",
+          "label": "0557"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "143",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2751-25",
+          "startTime": "23:29:00",
+          "startDate": "20220914",
+          "routeId": "69",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.94386,
+          "longitude": 12.547972,
+          "odometer": 11127.0
+        },
+        "currentStopSequence": 26,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "73893",
+        "vehicle": {
+          "id": "3807",
+          "label": "0560"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "144",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2759-27",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "69",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.915833,
+          "longitude": 12.453337,
+          "odometer": 227.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194406",
+        "stopId": "72913",
+        "vehicle": {
+          "id": "3810",
+          "label": "0563"
+        }
+      }
+    },
+    {
+      "id": "145",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#525-26",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "04B",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.791634,
+          "longitude": 12.3264,
+          "odometer": 6584.0
+        },
+        "currentStopSequence": 23,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "82199",
+        "vehicle": {
+          "id": "3939",
+          "label": "1309"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "146",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3120-15",
+          "startTime": "24:24:00",
+          "startDate": "20220914",
+          "routeId": "T20",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.85482,
+          "longitude": 12.565806,
+          "odometer": 3080.0
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "75309",
+        "vehicle": {
+          "id": "3965",
+          "label": "2115"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "147",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#864-31",
+          "startTime": "24:16:00",
+          "startDate": "20220914",
+          "routeId": "128",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.829475,
+          "longitude": 12.41504,
+          "odometer": 9086.0
+        },
+        "currentStopSequence": 20,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "78829",
+        "vehicle": {
+          "id": "3971",
+          "label": "2121"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "148",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3604-27",
+          "startTime": "24:34:00",
+          "startDate": "20220914",
+          "routeId": "86",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.93719,
+          "longitude": 12.531022,
+          "odometer": 26.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194416",
+        "stopId": "82807",
+        "vehicle": {
+          "id": "3982",
+          "label": "2132"
+        }
+      }
+    },
+    {
+      "id": "149",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4640-11",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "63",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.91188,
+          "longitude": 12.497867,
+          "odometer": 11042.0
+        },
+        "currentStopSequence": 33,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "70237",
+        "vehicle": {
+          "id": "3986",
+          "label": "2136"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "150",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4633-9",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "63",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.921577,
+          "longitude": 12.505161,
+          "odometer": 7020.0
+        },
+        "currentStopSequence": 23,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194416",
+        "stopId": "73637",
+        "vehicle": {
+          "id": "3993",
+          "label": "2143"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "151",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3853-27",
+          "startTime": "24:40:00",
+          "startDate": "20220914",
+          "routeId": "910",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.930794,
+          "longitude": 12.46447,
+          "odometer": 29.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194390",
+        "stopId": "78018",
+        "vehicle": {
+          "id": "3995",
+          "label": "2145"
+        }
+      }
+    },
+    {
+      "id": "152",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2460-9",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "60",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.896103,
+          "longitude": 12.482032,
+          "odometer": 10125.0
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "70387",
+        "vehicle": {
+          "id": "4003",
+          "label": "2153"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "153",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2537-20",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "628",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.93143,
+          "longitude": 12.459392,
+          "odometer": 13191.0
+        },
+        "currentStopSequence": 37,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "70057",
+        "vehicle": {
+          "id": "4015",
+          "label": "2165"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "154",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3729-27",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "89",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.91057,
+          "longitude": 12.498877,
+          "odometer": 67.0
+        },
+        "currentStopSequence": 14,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "72661",
+        "vehicle": {
+          "id": "4018",
+          "label": "2168"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "155",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1871-24",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "446",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.944965,
+          "longitude": 12.438332,
+          "odometer": 8825.0
+        },
+        "currentStopSequence": 26,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "74280",
+        "vehicle": {
+          "id": "4025",
+          "label": "2175"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "156",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3847-16",
+          "startTime": "24:40:00",
+          "startDate": "20220914",
+          "routeId": "910",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.901917,
+          "longitude": 12.499456,
+          "odometer": 92.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194396",
+        "stopId": "71710",
+        "vehicle": {
+          "id": "4031",
+          "label": "2206"
+        }
+      }
+    },
+    {
+      "id": "157",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1522-19",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "334",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 42.01203,
+          "longitude": 12.520675,
+          "odometer": 15507.0
+        },
+        "currentStopSequence": 19,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "71462",
+        "vehicle": {
+          "id": "4042",
+          "label": "2217"
+        }
+      }
+    },
+    {
+      "id": "158",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3693-31",
+          "startTime": "24:29:00",
+          "startDate": "20220914",
+          "routeId": "881",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.89991,
+          "longitude": 12.465507,
+          "odometer": 32.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194400",
+        "stopId": "79325",
+        "vehicle": {
+          "id": "4053",
+          "label": "2228"
+        }
+      }
+    },
+    {
+      "id": "159",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1192-25",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "23",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.860878,
+          "longitude": 12.476167,
+          "odometer": 8965.0
+        },
+        "currentStopSequence": 26,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194416",
+        "stopId": "72416",
+        "vehicle": {
+          "id": "4059",
+          "label": "2234"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "160",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1475-20",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "31",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.831528,
+          "longitude": 12.466697
+        },
+        "currentStopSequence": 40,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "74841",
+        "vehicle": {
+          "id": "4069",
+          "label": "2303"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "161",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3217-35",
+          "startTime": "24:25:00",
+          "startDate": "20220914",
+          "routeId": "L50",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.808765,
+          "longitude": 12.484847,
+          "odometer": 14716.0
+        },
+        "currentStopSequence": 5,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "82614",
+        "vehicle": {
+          "id": "4071",
+          "label": "2305"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "162",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3224-34",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "779",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.80781,
+          "longitude": 12.480492,
+          "odometer": 8316.0
+        },
+        "currentStopSequence": 24,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "78483",
+        "vehicle": {
+          "id": "4085",
+          "label": "2319"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "163",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3029-41",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "L10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.82251,
+          "longitude": 12.479696,
+          "odometer": 304.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194390",
+        "stopId": "76393",
+        "vehicle": {
+          "id": "4086",
+          "label": "2320"
+        }
+      }
+    },
+    {
+      "id": "164",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3284-20",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "788",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.801353,
+          "longitude": 12.47135,
+          "odometer": 11123.0
+        },
+        "currentStopSequence": 23,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "80759",
+        "vehicle": {
+          "id": "4091",
+          "label": "2325"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "165",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4097-8",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "n075",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.88299,
+          "longitude": 12.667855,
+          "odometer": 12586.0
+        },
+        "currentStopSequence": 29,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "74803",
+        "vehicle": {
+          "id": "4093",
+          "label": "2402"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "166",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4091-8",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "n041",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.936848,
+          "longitude": 12.616152,
+          "odometer": 6661.0
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "71980",
+        "vehicle": {
+          "id": "4096",
+          "label": "2405"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "167",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2178-15",
+          "startTime": "23:48:00",
+          "startDate": "20220914",
+          "routeId": "508",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.916817,
+          "longitude": 12.727475,
+          "odometer": 25610.0
+        },
+        "currentStopSequence": 57,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "74777",
+        "vehicle": {
+          "id": "4100",
+          "label": "2409"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "168",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4402-10",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "nMB1",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.919724,
+          "longitude": 12.519657,
+          "odometer": 3546.0
+        },
+        "currentStopSequence": 12,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "73380",
+        "vehicle": {
+          "id": "4105",
+          "label": "2414"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "169",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1466-17",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "313",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.881042,
+          "longitude": 12.575767,
+          "odometer": 9548.0
+        },
+        "currentStopSequence": 30,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "71258",
+        "vehicle": {
+          "id": "4106",
+          "label": "2415"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "170",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4095-8",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "n075",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.88296,
+          "longitude": 12.664917,
+          "odometer": 13368.0
+        },
+        "currentStopSequence": 28,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "74791",
+        "vehicle": {
+          "id": "4109",
+          "label": "2418"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "171",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4107-9",
+          "startTime": "24:24:00",
+          "startDate": "20220914",
+          "routeId": "n11",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.87541,
+          "longitude": 12.630767,
+          "odometer": 3040.0
+        },
+        "currentStopSequence": 7,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "76384",
+        "vehicle": {
+          "id": "4114",
+          "label": "2423"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "172",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4667-19",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "81",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.884747,
+          "longitude": 12.485947,
+          "odometer": 5715.0
+        },
+        "currentStopSequence": 19,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "70549",
+        "vehicle": {
+          "id": "4115",
+          "label": "2424"
+        },
+        "occupancyStatus": "STANDING_ROOM_ONLY"
+      }
+    },
+    {
+      "id": "173",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2852-20",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "71",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89638,
+          "longitude": 12.507332,
+          "odometer": 9489.0
+        },
+        "currentStopSequence": 31,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194416",
+        "stopId": "71662",
+        "vehicle": {
+          "id": "4116",
+          "label": "2425"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "174",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4073-26",
+          "startTime": "24:07:00",
+          "startDate": "20220914",
+          "routeId": "38",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.92286,
+          "longitude": 12.511726,
+          "odometer": 8441.0
+        },
+        "currentStopSequence": 27,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "72652",
+        "vehicle": {
+          "id": "4117",
+          "label": "2426"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "175",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1702-21",
+          "startTime": "24:17:00",
+          "startDate": "20220914",
+          "routeId": "38",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.939377,
+          "longitude": 12.52928,
+          "odometer": 6093.0
+        },
+        "currentStopSequence": 20,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "71576",
+        "vehicle": {
+          "id": "4118",
+          "label": "2427"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "176",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1448-10",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "313",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.880943,
+          "longitude": 12.57467,
+          "odometer": 7463.0
+        },
+        "currentStopSequence": 24,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "82503",
+        "vehicle": {
+          "id": "4127",
+          "label": "2436"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "177",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#302-3",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "n11",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.874104,
+          "longitude": 12.569777,
+          "odometer": 22309.0
+        },
+        "currentStopSequence": 36,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "71749",
+        "vehicle": {
+          "id": "4132",
+          "label": "2441"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "178",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1477-22",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "31",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.89596,
+          "longitude": 12.439076,
+          "odometer": 14639.0
+        },
+        "currentStopSequence": 32,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "72273",
+        "vehicle": {
+          "id": "4141",
+          "label": "2450"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "179",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3045-28",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "73",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.79418,
+          "longitude": 12.48979,
+          "odometer": 7459.0
+        },
+        "currentStopSequence": 19,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194416",
+        "stopId": "82623",
+        "vehicle": {
+          "id": "4145",
+          "label": "2454"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "180",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4212-12",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "n543",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.89496,
+          "longitude": 12.481822
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194418",
+        "stopId": "70777",
+        "vehicle": {
+          "id": "4148",
+          "label": "2457"
+        }
+      }
+    },
+    {
+      "id": "181",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4105-10",
+          "startTime": "24:22:00",
+          "startDate": "20220914",
+          "routeId": "A01",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89393,
+          "longitude": 12.551353,
+          "odometer": 4424.0
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "82479",
+        "vehicle": {
+          "id": "4149",
+          "label": "2458"
+        }
+      }
+    },
+    {
+      "id": "182",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4285-6",
+          "startTime": "24:16:00",
+          "startDate": "20220914",
+          "routeId": "A01",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.894966,
+          "longitude": 12.561372,
+          "odometer": 2610.0
+        },
+        "currentStopSequence": 2,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194402",
+        "stopId": "71202",
+        "vehicle": {
+          "id": "4150",
+          "label": "2459"
+        }
+      }
+    },
+    {
+      "id": "183",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4093-10",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "n041",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.90736,
+          "longitude": 12.564921,
+          "odometer": 4370.0
+        },
+        "currentStopSequence": 13,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "72556",
+        "vehicle": {
+          "id": "4156",
+          "label": "2465"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "184",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3598-28",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "86",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.95557,
+          "longitude": 12.545147,
+          "odometer": 3875.0
+        },
+        "currentStopSequence": 15,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "72627",
+        "vehicle": {
+          "id": "4178",
+          "label": "2615"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "185",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3443-20",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "80",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.89506,
+          "longitude": 12.48183,
+          "odometer": 48.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194414",
+        "stopId": "70777",
+        "vehicle": {
+          "id": "4187",
+          "label": "2624"
+        }
+      }
+    },
+    {
+      "id": "186",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3442-17",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "80",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.923317,
+          "longitude": 12.513852,
+          "odometer": 5550.0
+        },
+        "currentStopSequence": 10,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "72677",
+        "vehicle": {
+          "id": "4189",
+          "label": "2626"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "187",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#455-39",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "01",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.733166,
+          "longitude": 12.28356,
+          "odometer": 37.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194396",
+        "stopId": "76477",
+        "vehicle": {
+          "id": "4194",
+          "label": "2631"
+        }
+      }
+    },
+    {
+      "id": "188",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#506-28",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "03",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.77872,
+          "longitude": 12.350485,
+          "odometer": 12526.0
+        },
+        "currentStopSequence": 42,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "78572",
+        "vehicle": {
+          "id": "4197",
+          "label": "2634"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "189",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4243-9",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "n705",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.829212,
+          "longitude": 12.459695,
+          "odometer": 10569.0
+        },
+        "currentStopSequence": 33,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "72147",
+        "vehicle": {
+          "id": "4203",
+          "label": "2640"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "190",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#777-21",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "107",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.856422,
+          "longitude": 12.667617,
+          "odometer": 11686.0
+        },
+        "currentStopSequence": 30,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "79655",
+        "vehicle": {
+          "id": "4209",
+          "label": "2646"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "191",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4269-9",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "n719",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.864563,
+          "longitude": 12.45576,
+          "odometer": 2429.0
+        },
+        "currentStopSequence": 8,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194390",
+        "stopId": "74572",
+        "vehicle": {
+          "id": "4225",
+          "label": "2695"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "192",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#869-25",
+          "startTime": "24:33:00",
+          "startDate": "20220914",
+          "routeId": "128",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.857037,
+          "longitude": 12.47638,
+          "odometer": 22.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194410",
+        "stopId": "71759",
+        "vehicle": {
+          "id": "4227",
+          "label": "2697"
+        }
+      }
+    },
+    {
+      "id": "193",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4101-11",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "n11",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.888836,
+          "longitude": 12.522772,
+          "odometer": 5557.0
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "82697",
+        "vehicle": {
+          "id": "4249",
+          "label": "2496"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "194",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4660-18",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "81",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.896496,
+          "longitude": 12.474921,
+          "odometer": 9138.0
+        },
+        "currentStopSequence": 28,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "70183",
+        "vehicle": {
+          "id": "4250",
+          "label": "2497"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "195",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1011-20",
+          "startTime": "24:14:00",
+          "startDate": "20220914",
+          "routeId": "170",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.864563,
+          "longitude": 12.469307,
+          "odometer": 4507.0
+        },
+        "currentStopSequence": 11,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "70930",
+        "vehicle": {
+          "id": "4252",
+          "label": "2499"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "196",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1491-25",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "32",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.93726,
+          "longitude": 12.471292,
+          "odometer": 5264.0
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "70065",
+        "vehicle": {
+          "id": "4254",
+          "label": "2701"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "197",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#120-4",
+          "startTime": "23:25:00",
+          "startDate": "20220914",
+          "routeId": "MA",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.910862,
+          "longitude": 12.424145,
+          "odometer": 44051.0
+        },
+        "currentStopSequence": 27,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "72457",
+        "vehicle": {
+          "id": "4262",
+          "label": "2709"
+        }
+      }
+    },
+    {
+      "id": "198",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1333-24",
+          "startTime": "24:24:00",
+          "startDate": "20220914",
+          "routeId": "301",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.97175,
+          "longitude": 12.433953,
+          "odometer": 1554.0
+        },
+        "currentStopSequence": 8,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "72171",
+        "vehicle": {
+          "id": "4269",
+          "label": "2716"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "199",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1857-24",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "446",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.93742,
+          "longitude": 12.466235,
+          "odometer": 1642.0
+        },
+        "currentStopSequence": 6,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "72162",
+        "vehicle": {
+          "id": "4275",
+          "label": "2722"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "200",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3452-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "80",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.9111,
+          "longitude": 12.493977,
+          "odometer": 11034.0
+        },
+        "currentStopSequence": 24,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "73617",
+        "vehicle": {
+          "id": "4276",
+          "label": "2723"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "201",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4702-17",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "450",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.890587,
+          "longitude": 12.573967,
+          "odometer": 12446.0
+        },
+        "currentStopSequence": 45,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "72543",
+        "vehicle": {
+          "id": "4279",
+          "label": "2726"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "202",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#637-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "058",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.880184,
+          "longitude": 12.624227,
+          "odometer": 13429.0
+        },
+        "currentStopSequence": 26,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194390",
+        "stopId": "76367",
+        "vehicle": {
+          "id": "4280",
+          "label": "2727"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "203",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2375-25",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "556",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.852703,
+          "longitude": 12.590285,
+          "odometer": 12328.0
+        },
+        "currentStopSequence": 33,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "75332",
+        "vehicle": {
+          "id": "4282",
+          "label": "2729"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "204",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4012-27",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "981",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.831978,
+          "longitude": 12.411787,
+          "odometer": 19142.0
+        },
+        "currentStopSequence": 28,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "77865",
+        "vehicle": {
+          "id": "4283",
+          "label": "2730"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "205",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2725-9",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "671",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.84287,
+          "longitude": 12.481875,
+          "odometer": 9974.0
+        },
+        "currentStopSequence": 34,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "77400",
+        "vehicle": {
+          "id": "4284",
+          "label": "2731"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "206",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4814-10",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "85",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.88505,
+          "longitude": 12.511142,
+          "odometer": 6240.0
+        },
+        "currentStopSequence": 19,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "70393",
+        "vehicle": {
+          "id": "4287",
+          "label": "2734"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "207",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1083-16",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "200",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.93716,
+          "longitude": 12.470407,
+          "odometer": 1885.0
+        },
+        "currentStopSequence": 7,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "70065",
+        "vehicle": {
+          "id": "4289",
+          "label": "2736"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "208",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4819-8",
+          "startTime": "23:00:00",
+          "startDate": "20220914",
+          "routeId": "85",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.868465,
+          "longitude": 12.536357,
+          "odometer": 9553.0
+        },
+        "currentStopSequence": 32,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "74935",
+        "vehicle": {
+          "id": "4293",
+          "label": "2740"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "209",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1114-22",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "201",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.948486,
+          "longitude": 12.469697,
+          "odometer": 3006.0
+        },
+        "currentStopSequence": 10,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "70145",
+        "vehicle": {
+          "id": "4297",
+          "label": "2744"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "210",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#117-4",
+          "startTime": "23:25:00",
+          "startDate": "20220914",
+          "routeId": "MA",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.90291,
+          "longitude": 12.422867,
+          "odometer": 45296.0
+        },
+        "currentStopSequence": 27,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "72457",
+        "vehicle": {
+          "id": "4299",
+          "label": "2746"
+        }
+      }
+    },
+    {
+      "id": "211",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2448-26",
+          "startTime": "24:26:00",
+          "startDate": "20220914",
+          "routeId": "G40",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.954075,
+          "longitude": 12.475202,
+          "odometer": 5303.0
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194404",
+        "stopId": "70143",
+        "vehicle": {
+          "id": "4304",
+          "label": "2751"
+        }
+      }
+    },
+    {
+      "id": "212",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1504-24",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "32",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.934296,
+          "longitude": 12.462002,
+          "odometer": 10299.0
+        },
+        "currentStopSequence": 19,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "72867",
+        "vehicle": {
+          "id": "4308",
+          "label": "2755"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "213",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1319-24",
+          "startTime": "24:11:00",
+          "startDate": "20220914",
+          "routeId": "301",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.962635,
+          "longitude": 12.448216
+        },
+        "currentStopSequence": 26,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "76581",
+        "vehicle": {
+          "id": "4314",
+          "label": "2761"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "214",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5460-14",
+          "startTime": "24:23:00",
+          "startDate": "20220914",
+          "routeId": "980",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.946056,
+          "longitude": 12.416605,
+          "odometer": 204.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194394",
+        "stopId": "75048",
+        "vehicle": {
+          "id": "4315",
+          "label": "2762"
+        }
+      }
+    },
+    {
+      "id": "215",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3850-31",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "910",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.92435,
+          "longitude": 12.484232,
+          "odometer": 3411.0
+        },
+        "currentStopSequence": 11,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "72020",
+        "vehicle": {
+          "id": "4316",
+          "label": "2763"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "216",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5477-8",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "n46",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.89818,
+          "longitude": 12.46838,
+          "odometer": 4286.0
+        },
+        "currentStopSequence": 13,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "70053",
+        "vehicle": {
+          "id": "4327",
+          "label": "2774"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "217",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4624-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "49",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.929306,
+          "longitude": 12.417495,
+          "odometer": 10441.0
+        },
+        "currentStopSequence": 31,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "73275",
+        "vehicle": {
+          "id": "4360",
+          "label": "2807"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "218",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#121-4",
+          "startTime": "23:30:00",
+          "startDate": "20220914",
+          "routeId": "MA",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.903584,
+          "longitude": 12.420027,
+          "odometer": 21271.0
+        },
+        "currentStopSequence": 27,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "72457",
+        "vehicle": {
+          "id": "4366",
+          "label": "2814"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "219",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3478-19",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "80",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.951073,
+          "longitude": 12.525965,
+          "odometer": 9692.0
+        },
+        "currentStopSequence": 15,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "76776",
+        "vehicle": {
+          "id": "4367",
+          "label": "2817"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "220",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#116-4",
+          "startTime": "23:20:00",
+          "startDate": "20220914",
+          "routeId": "MA",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.90314,
+          "longitude": 12.422102,
+          "odometer": 21519.0
+        },
+        "currentStopSequence": 27,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194390",
+        "stopId": "72457",
+        "vehicle": {
+          "id": "4368",
+          "label": "2818"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "221",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1324-23",
+          "startTime": "23:59:00",
+          "startDate": "20220914",
+          "routeId": "301",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.9164,
+          "longitude": 12.463047,
+          "odometer": 11595.0
+        },
+        "currentStopSequence": 37,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "72101",
+        "vehicle": {
+          "id": "4370",
+          "label": "2831"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "222",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3139-22",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "766",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.819195,
+          "longitude": 12.52179,
+          "odometer": 9657.0
+        },
+        "currentStopSequence": 30,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "73618",
+        "vehicle": {
+          "id": "4381",
+          "label": "2833"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "223",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5475-8",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "n46",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.938908,
+          "longitude": 12.421106,
+          "odometer": 1.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194418",
+        "stopId": "73497",
+        "vehicle": {
+          "id": "4387",
+          "label": "2843"
+        }
+      }
+    },
+    {
+      "id": "224",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2552-21",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "628",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.88391,
+          "longitude": 12.487331,
+          "odometer": 10844.0
+        },
+        "currentStopSequence": 35,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194402",
+        "stopId": "70554",
+        "vehicle": {
+          "id": "4402",
+          "label": "2841"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "225",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4541-22",
+          "startTime": "24:07:00",
+          "startDate": "20220914",
+          "routeId": "04",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.739357,
+          "longitude": 12.280157,
+          "odometer": 15147.0
+        },
+        "currentStopSequence": 35,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194402",
+        "stopId": "76669",
+        "vehicle": {
+          "id": "4404",
+          "label": "2851"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "226",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4483-7",
+          "startTime": "23:30:00",
+          "startDate": "20220914",
+          "routeId": "nME",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.83126,
+          "longitude": 12.465852,
+          "odometer": 30994.0
+        },
+        "currentStopSequence": 58,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "70652",
+        "vehicle": {
+          "id": "4408",
+          "label": "2855"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "227",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4545-9",
+          "startTime": "24:05:00",
+          "startDate": "20220914",
+          "routeId": "04",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.775528,
+          "longitude": 12.35263,
+          "odometer": 14697.0
+        },
+        "currentStopSequence": 33,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "78329",
+        "vehicle": {
+          "id": "4409",
+          "label": "2856"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "228",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#622-27",
+          "startTime": "24:25:00",
+          "startDate": "20220914",
+          "routeId": "05",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.739624,
+          "longitude": 12.259856,
+          "odometer": 2182.0
+        },
+        "currentStopSequence": 7,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "79311",
+        "vehicle": {
+          "id": "4410",
+          "label": "2857"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "229",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4241-13",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "n705",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.812176,
+          "longitude": 12.442192,
+          "odometer": 6468.0
+        },
+        "currentStopSequence": 23,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "74552",
+        "vehicle": {
+          "id": "4411",
+          "label": "2858"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "230",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2796-34",
+          "startTime": "24:21:00",
+          "startDate": "20220914",
+          "routeId": "C10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.81967,
+          "longitude": 12.463765,
+          "odometer": 13360.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194414",
+        "stopId": "74338",
+        "vehicle": {
+          "id": "4415",
+          "label": "0572"
+        }
+      }
+    },
+    {
+      "id": "231",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4833-33",
+          "startTime": "24:25:00",
+          "startDate": "20220914",
+          "routeId": "A60",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.892994,
+          "longitude": 12.541786,
+          "odometer": 8311.0
+        },
+        "currentStopSequence": 5,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "71077",
+        "vehicle": {
+          "id": "4424",
+          "label": "0581"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "232",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1727-37",
+          "startTime": "24:12:00",
+          "startDate": "20220914",
+          "routeId": "A10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.892662,
+          "longitude": 12.54224,
+          "odometer": 9259.0
+        },
+        "currentStopSequence": 7,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194390",
+        "stopId": "71216",
+        "vehicle": {
+          "id": "4429",
+          "label": "0586"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "233",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#599-35",
+          "startTime": "24:20:00",
+          "startDate": "20220914",
+          "routeId": "05B",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.733078,
+          "longitude": 12.283551,
+          "odometer": 3210.0
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "76480",
+        "vehicle": {
+          "id": "4436",
+          "label": "2863"
+        }
+      }
+    },
+    {
+      "id": "234",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#621-27",
+          "startTime": "24:25:00",
+          "startDate": "20220914",
+          "routeId": "05",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.731815,
+          "longitude": 12.289547,
+          "odometer": 2172.0
+        },
+        "currentStopSequence": 9,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "77000",
+        "vehicle": {
+          "id": "4437",
+          "label": "2864"
+        }
+      }
+    },
+    {
+      "id": "235",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4488-5",
+          "startTime": "24:01:00",
+          "startDate": "20220914",
+          "routeId": "nME",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.780865,
+          "longitude": 12.353537,
+          "odometer": 14845.0
+        },
+        "currentStopSequence": 35,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194400",
+        "stopId": "76820",
+        "vehicle": {
+          "id": "4438",
+          "label": "2865"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "236",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3309-10",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "791",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.831528,
+          "longitude": 12.469631,
+          "odometer": 11525.0
+        },
+        "currentStopSequence": 30,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194402",
+        "stopId": "78475",
+        "vehicle": {
+          "id": "4445",
+          "label": "2872"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "237",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5273-2",
+          "startTime": "23:45:00",
+          "startDate": "20220914",
+          "routeId": "nMB",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.90553,
+          "longitude": 12.504338,
+          "odometer": 8743.0
+        },
+        "currentStopSequence": 42,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194390",
+        "stopId": "80505",
+        "vehicle": {
+          "id": "4451",
+          "label": "0703"
+        },
+        "occupancyStatus": "STANDING_ROOM_ONLY"
+      }
+    },
+    {
+      "id": "238",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4599-20",
+          "startTime": "24:05:00",
+          "startDate": "20220914",
+          "routeId": "46",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.928577,
+          "longitude": 12.418411,
+          "odometer": 3528.0
+        },
+        "currentStopSequence": 35,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194414",
+        "stopId": "73274",
+        "vehicle": {
+          "id": "4455",
+          "label": "0707"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "239",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3379-34",
+          "startTime": "24:23:00",
+          "startDate": "20220914",
+          "routeId": "8BUS",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.87762,
+          "longitude": 12.465616,
+          "odometer": 1114.0
+        },
+        "currentStopSequence": 10,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "79762",
+        "vehicle": {
+          "id": "4461",
+          "label": "0713"
+        }
+      }
+    },
+    {
+      "id": "240",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4597-22",
+          "startTime": "24:25:00",
+          "startDate": "20220914",
+          "routeId": "46",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.901154,
+          "longitude": 12.463246,
+          "odometer": 851.0
+        },
+        "currentStopSequence": 9,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194378",
+        "stopId": "82181",
+        "vehicle": {
+          "id": "4465",
+          "label": "0717"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "241",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4334-11",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "n98",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.900257,
+          "longitude": 12.456817,
+          "odometer": 1560.0
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194388",
+        "stopId": "77310",
+        "vehicle": {
+          "id": "4466",
+          "label": "0718"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "242",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4611-17",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "46",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89982,
+          "longitude": 12.452019,
+          "odometer": 3270.0
+        },
+        "currentStopSequence": 36,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194384",
+        "stopId": "73169",
+        "vehicle": {
+          "id": "4469",
+          "label": "0721"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "243",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5288-12",
+          "startTime": "24:23:00",
+          "startDate": "20220914",
+          "routeId": "nMB",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.91294,
+          "longitude": 12.555326,
+          "odometer": 769.0
+        },
+        "currentStopSequence": 4,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "71088",
+        "vehicle": {
+          "id": "4470",
+          "label": "0722"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "244",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5287-11",
+          "startTime": "24:02:00",
+          "startDate": "20220914",
+          "routeId": "nMB",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.90991,
+          "longitude": 12.510741,
+          "odometer": 4897.0
+        },
+        "currentStopSequence": 21,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "80499",
+        "vehicle": {
+          "id": "4475",
+          "label": "0727"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "245",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5283-11",
+          "startTime": "23:55:00",
+          "startDate": "20220914",
+          "routeId": "nMB",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.92403,
+          "longitude": 12.574652,
+          "odometer": 5368.0
+        },
+        "currentStopSequence": 32,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "78198",
+        "vehicle": {
+          "id": "4476",
+          "label": "0728"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "246",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3936-17",
+          "startTime": "24:14:00",
+          "startDate": "20220914",
+          "routeId": "916",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.906685,
+          "longitude": 12.415196,
+          "odometer": 1878.0
+        },
+        "currentStopSequence": 17,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "76154",
+        "vehicle": {
+          "id": "4477",
+          "label": "0729"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "247",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3086-20",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "75",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.885197,
+          "longitude": 12.468906,
+          "odometer": 2210.0
+        },
+        "currentStopSequence": 22,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194398",
+        "stopId": "70299",
+        "vehicle": {
+          "id": "4478",
+          "label": "0730"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "248",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3703-24",
+          "startTime": "24:22:00",
+          "startDate": "20220914",
+          "routeId": "P10",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.94348,
+          "longitude": 12.528896,
+          "odometer": 677.0
+        },
+        "currentStopSequence": 3,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194386",
+        "stopId": "81844",
+        "vehicle": {
+          "id": "4480",
+          "label": "0732"
+        }
+      }
+    },
+    {
+      "id": "249",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3382-34",
+          "startTime": "24:29:00",
+          "startDate": "20220914",
+          "routeId": "8BUS",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.894653,
+          "longitude": 12.481075
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194418",
+        "stopId": "80610",
+        "vehicle": {
+          "id": "4486",
+          "label": "0738"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "250",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4075-27",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "44",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.89334,
+          "longitude": 12.481651,
+          "odometer": 7.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194390",
+        "stopId": "74612",
+        "vehicle": {
+          "id": "4489",
+          "label": "0741"
+        }
+      }
+    },
+    {
+      "id": "251",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2620-32",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "64",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.896477,
+          "longitude": 12.454706,
+          "odometer": 50.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194390",
+        "stopId": "73992",
+        "vehicle": {
+          "id": "4491",
+          "label": "0743"
+        }
+      }
+    },
+    {
+      "id": "252",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3374-34",
+          "startTime": "24:18:00",
+          "startDate": "20220914",
+          "routeId": "8BUS",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.87126,
+          "longitude": 12.458676,
+          "odometer": 1521.0
+        },
+        "currentStopSequence": 13,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "75225",
+        "vehicle": {
+          "id": "4496",
+          "label": "0748"
+        }
+      }
+    },
+    {
+      "id": "253",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3370-34",
+          "startTime": "24:13:00",
+          "startDate": "20220914",
+          "routeId": "8BUS",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.8776,
+          "longitude": 12.465577,
+          "odometer": 1124.0
+        },
+        "currentStopSequence": 10,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194390",
+        "stopId": "79762",
+        "vehicle": {
+          "id": "4500",
+          "label": "0752"
+        }
+      }
+    },
+    {
+      "id": "254",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2037-19",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "492",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.905067,
+          "longitude": 12.473672,
+          "odometer": 3105.0
+        },
+        "currentStopSequence": 30,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "70189",
+        "vehicle": {
+          "id": "4502",
+          "label": "0754"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "255",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1299-27",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "3NAV",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.873196,
+          "longitude": 12.466271,
+          "odometer": 2697.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194388",
+        "stopId": "72103",
+        "vehicle": {
+          "id": "4506",
+          "label": "0758"
+        }
+      }
+    },
+    {
+      "id": "256",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3420-34",
+          "startTime": "24:03:00",
+          "startDate": "20220914",
+          "routeId": "8BUS",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.872135,
+          "longitude": 12.449817,
+          "odometer": 1820.0
+        },
+        "currentStopSequence": 16,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194368",
+        "stopId": "76617",
+        "vehicle": {
+          "id": "4508",
+          "label": "0760"
+        }
+      }
+    },
+    {
+      "id": "257",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3402-35",
+          "startTime": "24:32:00",
+          "startDate": "20220914",
+          "routeId": "8BUS",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.87546,
+          "longitude": 12.468962,
+          "odometer": 1190.0
+        },
+        "currentStopSequence": 8,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "79753",
+        "vehicle": {
+          "id": "4514",
+          "label": "0766"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "258",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4503-8",
+          "startTime": "23:59:00",
+          "startDate": "20220914",
+          "routeId": "nME",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.82091,
+          "longitude": 12.443622,
+          "odometer": 4573.0
+        },
+        "currentStopSequence": 39,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194408",
+        "stopId": "76933",
+        "vehicle": {
+          "id": "4516",
+          "label": "0768"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "259",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4088-9",
+          "startTime": "24:12:00",
+          "startDate": "20220914",
+          "routeId": "916",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.896107,
+          "longitude": 12.449362,
+          "odometer": 1360.0
+        },
+        "currentStopSequence": 13,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194394",
+        "stopId": "70165",
+        "vehicle": {
+          "id": "4519",
+          "label": "0771"
+        },
+        "occupancyStatus": "STANDING_ROOM_ONLY"
+      }
+    },
+    {
+      "id": "260",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2206-20",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "51",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.90221,
+          "longitude": 12.481297,
+          "odometer": 1419.0
+        },
+        "currentStopSequence": 11,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "70387",
+        "vehicle": {
+          "id": "4520",
+          "label": "0772"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "261",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5284-9",
+          "startTime": "24:05:00",
+          "startDate": "20220914",
+          "routeId": "nMB",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.86021,
+          "longitude": 12.478435,
+          "odometer": 2228.0
+        },
+        "currentStopSequence": 20,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "71927",
+        "vehicle": {
+          "id": "4533",
+          "label": "0785"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "262",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3389-33",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "8BUS",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.889183,
+          "longitude": 12.507361,
+          "odometer": 4836.0
+        },
+        "currentStopSequence": 24,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194420",
+        "stopId": "81993",
+        "vehicle": {
+          "id": "4539",
+          "label": "0791"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "263",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1297-27",
+          "startTime": "24:17:00",
+          "startDate": "20220914",
+          "routeId": "3NAV",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.882687,
+          "longitude": 12.476138,
+          "odometer": 3403.0
+        },
+        "currentStopSequence": 8,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194380",
+        "stopId": "70923",
+        "vehicle": {
+          "id": "4542",
+          "label": "0794"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "264",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#5285-10",
+          "startTime": "24:25:00",
+          "startDate": "20220914",
+          "routeId": "nMB",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.829388,
+          "longitude": 12.474196,
+          "odometer": 522.0
+        },
+        "currentStopSequence": 6,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194410",
+        "stopId": "70650",
+        "vehicle": {
+          "id": "4544",
+          "label": "0796"
+        }
+      }
+    },
+    {
+      "id": "265",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4495-11",
+          "startTime": "23:30:00",
+          "startDate": "20220914",
+          "routeId": "nME",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.789055,
+          "longitude": 12.375466,
+          "odometer": 6711.0
+        },
+        "currentStopSequence": 42,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194392",
+        "stopId": "76677",
+        "vehicle": {
+          "id": "4545",
+          "label": "0797"
+        }
+      }
+    },
+    {
+      "id": "266",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4275-14",
+          "startTime": "24:35:00",
+          "startDate": "20220914",
+          "routeId": "n781",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.873016,
+          "longitude": 12.466365,
+          "odometer": 285.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194414",
+        "stopId": "72022",
+        "vehicle": {
+          "id": "4549",
+          "label": "2876"
+        }
+      }
+    },
+    {
+      "id": "267",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4332-9",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "n98",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.895382,
+          "longitude": 12.446415,
+          "odometer": 8495.0
+        },
+        "currentStopSequence": 31,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194416",
+        "stopId": "75887",
+        "vehicle": {
+          "id": "4554",
+          "label": "2881"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "268",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4299-8",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "n904",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.895317,
+          "longitude": 12.447997,
+          "odometer": 4233.0
+        },
+        "currentStopSequence": 13,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "70165",
+        "vehicle": {
+          "id": "4568",
+          "label": "2895"
+        },
+        "occupancyStatus": "STANDING_ROOM_ONLY"
+      }
+    },
+    {
+      "id": "269",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3785-20",
+          "startTime": "24:30:00",
+          "startDate": "20220914",
+          "routeId": "904",
+          "directionId": 1
+        },
+        "position": {
+          "latitude": 41.943363,
+          "longitude": 12.369732,
+          "odometer": 122.0
+        },
+        "currentStopSequence": 1,
+        "currentStatus": "STOPPED_AT",
+        "timestamp": "1663194420",
+        "stopId": "75596",
+        "vehicle": {
+          "id": "4572",
+          "label": "2899"
+        }
+      }
+    },
+    {
+      "id": "270",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3786-22",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "904",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.942535,
+          "longitude": 12.366656,
+          "odometer": 13179.0
+        },
+        "currentStopSequence": 40,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194418",
+        "stopId": "78668",
+        "vehicle": {
+          "id": "4575",
+          "label": "2902"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "271",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#3677-30",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "881",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.89706,
+          "longitude": 12.450117,
+          "odometer": 6005.0
+        },
+        "currentStopSequence": 24,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "78575",
+        "vehicle": {
+          "id": "4577",
+          "label": "2904"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "272",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4295-7",
+          "startTime": "24:10:00",
+          "startDate": "20220914",
+          "routeId": "n904",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.92915,
+          "longitude": 12.376001,
+          "odometer": 5759.0
+        },
+        "currentStopSequence": 19,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194396",
+        "stopId": "75612",
+        "vehicle": {
+          "id": "4578",
+          "label": "2905"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "273",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#2968-17",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "719",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.8752,
+          "longitude": 12.469662,
+          "odometer": 12456.0
+        },
+        "currentStopSequence": 41,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194406",
+        "stopId": "80566",
+        "vehicle": {
+          "id": "4588",
+          "label": "2915"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "274",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#4277-11",
+          "startTime": "24:15:00",
+          "startDate": "20220914",
+          "routeId": "n8",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.8725,
+          "longitude": 12.460617,
+          "odometer": 4476.0
+        },
+        "currentStopSequence": 15,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194404",
+        "stopId": "75184",
+        "vehicle": {
+          "id": "4597",
+          "label": "2925"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    },
+    {
+      "id": "275",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "0#1309-18",
+          "startTime": "24:00:00",
+          "startDate": "20220914",
+          "routeId": "30",
+          "directionId": 0
+        },
+        "position": {
+          "latitude": 41.889187,
+          "longitude": 12.481361,
+          "odometer": 11660.0
+        },
+        "currentStopSequence": 15,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663194412",
+        "stopId": "70518",
+        "vehicle": {
+          "id": "4606",
+          "label": "2934"
+        },
+        "occupancyStatus": "MANY_SEATS_AVAILABLE"
+      }
+    }
+  ]
+}
