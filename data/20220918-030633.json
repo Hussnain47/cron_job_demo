@@ -1,0 +1,177 @@
+{
+  "header": {
+    "gtfsRealtimeVersion": "1.0",
+    "incrementality": "FULL_DATASET",
+    "timestamp": "1663470306"
+  },
+  "entity": [
+    {
+      "id": "1",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "VJ13b443f54d9dd89f303a3337457ef19efa61fbdf",
+          "startTime": "05:00:00",
+          "startDate": "20220918",
+          "scheduleRelationship": "SCHEDULED",
+          "routeId": "346"
+        },
+        "position": {
+          "latitude": 41.89186,
+          "longitude": 12.649718
+        },
+        "currentStopSequence": 5,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663470291",
+        "vehicle": {
+          "id": "9869_000003",
+          "label": " 9869"
+        }
+      }
+    },
+    {
+      "id": "2",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "VJ25001ee7a1af7442f17f345c04aff7d04a1954e7",
+          "startTime": "05:00:00",
+          "startDate": "20220918",
+          "scheduleRelationship": "SCHEDULED",
+          "routeId": "317"
+        },
+        "position": {
+          "latitude": 41.86772,
+          "longitude": 12.645988
+        },
+        "currentStopSequence": 9,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663470282",
+        "vehicle": {
+          "id": "122_000003",
+          "label": "  122"
+        }
+      }
+    },
+    {
+      "id": "3",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "VJ270666d77fbcb8bc88aa5e9ad3ba8a77023f94c3",
+          "startTime": "04:45:00",
+          "startDate": "20220918",
+          "scheduleRelationship": "SCHEDULED",
+          "routeId": "314"
+        },
+        "position": {
+          "latitude": 41.907276,
+          "longitude": 12.407803
+        },
+        "currentStopSequence": 40,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663470291",
+        "vehicle": {
+          "id": "9917_000003",
+          "label": " 9917"
+        }
+      }
+    },
+    {
+      "id": "4",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "VJ52afa8d2e15402bc65176e497047cbc4765a7b19",
+          "startTime": "05:00:00",
+          "startDate": "20220918",
+          "scheduleRelationship": "SCHEDULED",
+          "routeId": "4225"
+        },
+        "position": {
+          "latitude": 41.9856,
+          "longitude": 12.403793
+        },
+        "currentStopSequence": 2,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663470268",
+        "vehicle": {
+          "id": "9692_000003",
+          "label": " 9692"
+        }
+      }
+    },
+    {
+      "id": "5",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "VJd1bb2a5e73c98f4662475ad0c72d0e5fa4c10341",
+          "startTime": "05:00:00",
+          "startDate": "20220918",
+          "scheduleRelationship": "SCHEDULED",
+          "routeId": "242"
+        },
+        "position": {
+          "latitude": 41.935856,
+          "longitude": 12.532988
+        },
+        "currentStopSequence": 7,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663470288",
+        "vehicle": {
+          "id": "9706_000003",
+          "label": " 9706"
+        }
+      }
+    },
+    {
+      "id": "6",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "VJdc61b370291219f1ab342662c8fc883eca4176e4",
+          "startTime": "05:00:00",
+          "startDate": "20220918",
+          "scheduleRelationship": "SCHEDULED",
+          "routeId": "4457"
+        },
+        "position": {
+          "latitude": 41.925632,
+          "longitude": 12.630859
+        },
+        "currentStopSequence": 8,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663470281",
+        "vehicle": {
+          "id": "9826_000003",
+          "label": " 9826"
+        }
+      }
+    },
+    {
+      "id": "7",
+      "isDeleted": false,
+      "vehicle": {
+        "trip": {
+          "tripId": "VJf1b6a41a6f2ea57168f4a987342435829a799a42",
+          "startTime": "05:00:00",
+          "startDate": "20220918",
+          "scheduleRelationship": "SCHEDULED",
+          "routeId": "2377"
+        },
+        "position": {
+          "latitude": 41.950294,
+          "longitude": 12.377637
+        },
+        "currentStopSequence": 6,
+        "currentStatus": "IN_TRANSIT_TO",
+        "timestamp": "1663470262",
+        "vehicle": {
+          "id": "9925_000003",
+          "label": " 9925"
+        }
+      }
+    }
+  ]
+}
